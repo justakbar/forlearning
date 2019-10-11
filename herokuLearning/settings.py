@@ -25,7 +25,7 @@ SECRET_KEY = 'bux*h=sygztcyvrqay%w_hsbuz%bfxkq3of==!)i=c%$u-n1vl'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://akbar-herokutestapp.herokuapp.com/']
+ALLOWED_HOSTS = []
 
 
 # Application definition
